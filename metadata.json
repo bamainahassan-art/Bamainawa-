@@ -1,0 +1,6 @@
+{
+  "name": "PitchLab",
+  "description": "Football training companion to track drills, schedule sessions, and monitor athlete performance metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
